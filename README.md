@@ -37,12 +37,3 @@
 <a href="https://github.com/PedroManguinho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/joão-bezerra-015207232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:jpmb357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<table>
-  <tr>
-    <td><img width='100%' src='https://github.com/PedroManguinho/PedroManguinho/blob/output/github-contribution-grid-snake.svg'></td>
-  </tr>
-</table>
-
-</div>
-
